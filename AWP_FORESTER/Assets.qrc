@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/src"/>
+    <qresource prefix="/">
+        <file>src/BackgroundAutorization.jpg</file>
+        <file>src/Area1.png</file>
+        <file>src/Area2.png</file>
+        <file>src/Area3.png</file>
+        <file>src/Area4.png</file>
+        <file>src/Area5.png</file>
+        <file>src/Area6.png</file>
+    </qresource>
+</RCC>
